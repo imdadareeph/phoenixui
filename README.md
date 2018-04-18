@@ -1,6 +1,6 @@
 
 
-## [Demo](https://github.com/imdadareeph/phoenixui/master/dist/)
+## [Demo](http://www.imdadareeph.com/phoenixui/login)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
